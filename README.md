@@ -8,9 +8,9 @@ Using 2dgs and GOF to extract mesh from 3D gaussians in glTF 2.0 standard</p>
 <br>
 
 
-# TO DO
-- [x] Make it a one pass pipeline and do not need to save the intermediate results
-- [x] Normal map still needs improvement, please refer to cuda_rasterizer/forward.cu
+# New Features Compare to 2DGS and GOF
+- [√] Make it a one pass pipeline and do not need to save the intermediate results
+- [√] Normal map improved, please refer to cuda_rasterizer/backward.cu
 
 
 
